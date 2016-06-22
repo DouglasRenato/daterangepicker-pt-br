@@ -1,5 +1,8 @@
 # daterangepicker-pt-br
 
+
+Exemplo de uma controller traduzida utilizando este componente de Dangrossman para selecionar intervalos de datas com AngularJS.
+
 Para utilizar este componente siga as instruções de instalação no repositório do Autor Dangrossman: https://github.com/dangrossman/bootstrap-daterangepicker
 
 A controller aqui presente visa a tradução e formato de data na linguagem pt-BR.
